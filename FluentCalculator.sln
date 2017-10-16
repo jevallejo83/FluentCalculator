@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp1\ConsoleApp.csproj", "{CD8EFC90-E357-4BF4-A860-DA00FD003292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCalculator", "FluentCalculator\FluentCalculator.csproj", "{D6A9014A-E5BB-4BC9-9858-6588B82FDA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8EFC90-E357-4BF4-A860-DA00FD003292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8EFC90-E357-4BF4-A860-DA00FD003292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8EFC90-E357-4BF4-A860-DA00FD003292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8EFC90-E357-4BF4-A860-DA00FD003292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A9014A-E5BB-4BC9-9858-6588B82FDA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A9014A-E5BB-4BC9-9858-6588B82FDA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A9014A-E5BB-4BC9-9858-6588B82FDA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A9014A-E5BB-4BC9-9858-6588B82FDA52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF00BD0E-31C4-481A-98F3-A2C991BE53CF}
+	EndGlobalSection
+EndGlobal
